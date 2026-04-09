@@ -1,1 +1,0 @@
-* Actual views/screens (HomePage, Dashboard, Profile) in this folder.

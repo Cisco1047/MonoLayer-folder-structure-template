@@ -1,1 +1,0 @@
-* Custom React hooks if needed (like useAuth, useFetch) in this folder.

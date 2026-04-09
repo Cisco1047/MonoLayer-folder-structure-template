@@ -1,1 +1,0 @@
-* Images, icons, stylesheets in this folder. 

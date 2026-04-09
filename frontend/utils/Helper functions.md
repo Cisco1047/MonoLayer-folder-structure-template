@@ -1,1 +1,0 @@
-* Helper functions (date formatters, validators) in this folder.
