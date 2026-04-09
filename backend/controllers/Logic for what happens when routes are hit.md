@@ -1,1 +1,0 @@
-* Logic for what happens when routes are hit (what to send, how to respond) in this folder.

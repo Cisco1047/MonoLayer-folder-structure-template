@@ -1,1 +1,0 @@
-* Business logic that talks to the database or external APIs in this folder.
