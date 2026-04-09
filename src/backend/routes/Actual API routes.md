@@ -1,0 +1,1 @@
+* Actual API routes (e.g., /auth, /posts, /comments) in this folder.

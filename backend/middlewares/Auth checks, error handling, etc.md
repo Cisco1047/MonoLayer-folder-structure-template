@@ -1,0 +1,1 @@
+* Auth checks, error handling, etc. in this folder.

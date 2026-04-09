@@ -1,0 +1,1 @@
+* Helper functions (token generation, email sending) in this folder.
